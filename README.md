@@ -40,3 +40,7 @@
 
 12. [Salesforce Flow Logic - Assignment](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350682#overview)
     - [Flow Element: Assignment](https://help.salesforce.com/s/articleView?id=sf.flow_ref_elements_assignment.htm&type=5)
+    - [497f0da](https://github.com/lbritosan/salesforce-flow/commit/497f0da72ba12e4a47ddef8e5955a65af0305a03)
+
+13. [13. Salesforce Flow Logic - Decision](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350684#overview)
+    - [Flow Element: Decision](https://help.salesforce.com/s/articleView?id=sf.flow_ref_elements_decision.htm&type=5)

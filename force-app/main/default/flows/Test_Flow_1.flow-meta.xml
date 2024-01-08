@@ -5,8 +5,8 @@
         <description>Sets the rating on the Lead to Hot</description>
         <name>Set_Rating_to_Hot</name>
         <label>Set Rating to Hot</label>
-        <locationX>751</locationX>
-        <locationY>289</locationY>
+        <locationX>176</locationX>
+        <locationY>134</locationY>
         <assignmentItems>
             <assignToReference>varLead.Rating</assignToReference>
             <operator>Assign</operator>
@@ -14,7 +14,42 @@
                 <stringValue>Hot</stringValue>
             </value>
         </assignmentItems>
+        <connector>
+            <targetReference>Lead_Rating</targetReference>
+        </connector>
     </assignments>
+    <decisions>
+        <description>Directs the Flow depending on the Rating of the Lead</description>
+        <name>Lead_Rating</name>
+        <label>Lead Rating</label>
+        <locationX>176</locationX>
+        <locationY>242</locationY>
+        <defaultConnectorLabel>Rating is Hot</defaultConnectorLabel>
+        <rules>
+            <name>Rating_is_Cold</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>varLead.Rating</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <stringValue>Cold</stringValue>
+                </rightValue>
+            </conditions>
+            <label>Rating is Cold</label>
+        </rules>
+        <rules>
+            <name>Rating_is_Warm</name>
+            <conditionLogic>and</conditionLogic>
+            <conditions>
+                <leftValueReference>varLead.Rating</leftValueReference>
+                <operator>EqualTo</operator>
+                <rightValue>
+                    <stringValue>Warm</stringValue>
+                </rightValue>
+            </conditions>
+            <label>Rating is Warm</label>
+        </rules>
+    </decisions>
     <description>This is a test flow</description>
     <environments>Default</environments>
     <interviewLabel>Test Flow 1 {!$Flow.CurrentDateTime}</interviewLabel>
@@ -28,7 +63,7 @@
     <processMetadataValues>
         <name>CanvasMode</name>
         <value>
-            <stringValue>FREE_FORM_CANVAS</stringValue>
+            <stringValue>AUTO_LAYOUT_CANVAS</stringValue>
         </value>
     </processMetadataValues>
     <processMetadataValues>
@@ -39,10 +74,13 @@
     </processMetadataValues>
     <processType>Flow</processType>
     <start>
-        <locationX>650</locationX>
-        <locationY>48</locationY>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector>
+            <targetReference>Set_Rating_to_Hot</targetReference>
+        </connector>
     </start>
-    <status>InvalidDraft</status>
+    <status>Draft</status>
     <variables>
         <description>Lead variable for demo</description>
         <name>varLead</name>
