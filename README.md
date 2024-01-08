@@ -1,18 +1,14 @@
-# Salesforce DX Project: Next Steps
+## Salesforce Flows - Learn Salesforce Lightning Flows Fast
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+7. A Overview of Salesforce Flows and their Capabilities
+    - [Flow Builder](https://help.salesforce.com/s/articleView?id=sf.flow.htm&type=5)
+    - [General Flow Limits](https://help.salesforce.com/s/articleView?id=sf.flow_considerations_limit.htm&type=5)
+    - [Per-Transaction Flow Limits](https://help.salesforce.com/s/articleView?id=sf.flow_considerations_limit_transaction.htm&type=5)
+    - [Flow Usage-Based Entitlements](https://help.salesforce.com/s/articleView?id=sf.flow_considerations_usage_entitlements.htm&type=5)
 
-## How Do You Plan to Deploy Your Changes?
+8. Profile Requirements & Salesforce Flow List View
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+9. Creating a Salesforce Flow
+    - [Commit](https://github.com/lbritosan/salesforce-flow/commit/689803119efd86f66fb4a23aa6deab0abccf83ea)
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+10. Flow Interviews
