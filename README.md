@@ -1,14 +1,33 @@
-## Salesforce Flows - Learn Salesforce Lightning Flows Fast
+# Salesforce Flows - Learn Salesforce Lightning Flows Fast
 
-7. A Overview of Salesforce Flows and their Capabilities
+## Section 1: Introduction
+
+1. [Welcome](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350514#overview)
+
+2. [Meet Your Instructor](https://www.udemy.com/course/salesforce-flows/learn/lecture/31395810#overview)
+
+3. [Developer Edition Sign Up](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350518#overview)
+    - [Developer Edition](https://developer.salesforce.com/signup)
+
+4. [IMPORTANT: The Structure of the Course](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350950#overview)
+
+5. [Reviews](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350948#overview)
+
+## Section 2: The Automation Landscape
+
+6. [The Salesforce Automation Landscape](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350524#overview)
+
+## Section 3: Introductions to Flows
+
+7. [A Overview of Salesforce Flows and their Capabilities](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350546#overview)
     - [Flow Builder](https://help.salesforce.com/s/articleView?id=sf.flow.htm&type=5)
     - [General Flow Limits](https://help.salesforce.com/s/articleView?id=sf.flow_considerations_limit.htm&type=5)
     - [Per-Transaction Flow Limits](https://help.salesforce.com/s/articleView?id=sf.flow_considerations_limit_transaction.htm&type=5)
     - [Flow Usage-Based Entitlements](https://help.salesforce.com/s/articleView?id=sf.flow_considerations_usage_entitlements.htm&type=5)
 
-8. Profile Requirements & Salesforce Flow List View
+8. [Profile Requirements & Salesforce Flow List View](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350666#overview)
 
-9. Creating a Salesforce Flow
+9. [Creating a Salesforce Flow](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350672#overview)
     - [Commit](https://github.com/lbritosan/salesforce-flow/commit/689803119efd86f66fb4a23aa6deab0abccf83ea)
 
-10. Flow Interviews
+10. [Flow Interviews](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350674#overview)
