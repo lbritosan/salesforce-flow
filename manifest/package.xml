@@ -43,5 +43,9 @@
         <members>Custom: Sales Profile</members>
         <name>Profile</name>
     </types>
+	<types>
+		<members>Flow</members>
+		<name>Settings</name>
+	</types>
     <version>58.0</version>
 </Package>

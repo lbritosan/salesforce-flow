@@ -30,4 +30,5 @@
 9. [Creating a Salesforce Flow](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350672#overview)
     - [6898031](https://github.com/lbritosan/salesforce-flow/commit/689803119efd86f66fb4a23aa6deab0abccf83ea)
 
-10. [Flow Interviews](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350674#overview)
+10. [Salesforce Flow Interviews](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350674#overview)
+    - [Flow Interviews](https://help.salesforce.com/s/articleView?id=sf.flow_interviews.htm&type=5)
