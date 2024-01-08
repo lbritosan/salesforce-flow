@@ -37,3 +37,6 @@
 11. [Salesforce Flow Actions](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350678#overview)
     - [Provided Flow Core Actions](https://help.salesforce.com/s/articleView?id=sf.flow_ref_elements_actions_list.htm&type=5)
     - [Flow Core Action: Send Email](https://help.salesforce.com/s/articleView?id=sf.flow_ref_elements_actions_sendemail.htm&type=5)
+
+12. [Salesforce Flow Logic - Assignment](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350682#overview)
+    - [Flow Element: Assignment](https://help.salesforce.com/s/articleView?id=sf.flow_ref_elements_assignment.htm&type=5)
