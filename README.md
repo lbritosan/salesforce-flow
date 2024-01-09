@@ -47,3 +47,7 @@
 
 14. [Salesforce Flow Logic - Loops](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350686#overview)
     - [Flow Element: Loop](https://help.salesforce.com/s/articleView?id=sf.flow_ref_elements_loop.htm&type=5)
+    - [5877368](https://github.com/lbritosan/salesforce-flow/commit/58773687bf605da11a9de553cff0e52d012159c6)
+
+15. [Salesforce Flow Logic - Collection Order & Collection Sort](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350688#overview)
+    - [Sort and Limit Data in a Collection](https://help.salesforce.com/s/articleView?id=release-notes.rn_automate_flow_builder_sort_limit_collection.htm&release=232&type=5)
