@@ -51,3 +51,5 @@
 
 15. [Salesforce Flow Logic - Collection Order & Collection Sort](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350688#overview)
     - [Sort and Limit Data in a Collection](https://help.salesforce.com/s/articleView?id=release-notes.rn_automate_flow_builder_sort_limit_collection.htm&release=232&type=5)
+
+16. [Salesforce Flow Logic - Recap](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350690#overview)
