@@ -37,6 +37,7 @@
 
     <types>
         <members>Test_Flow_1</members>
+        <members>Test_Flow_2</members>
         <name>Flow</name>
     </types>
     <types>

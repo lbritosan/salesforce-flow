@@ -44,3 +44,6 @@
 
 13. [13. Salesforce Flow Logic - Decision](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350684#overview)
     - [Flow Element: Decision](https://help.salesforce.com/s/articleView?id=sf.flow_ref_elements_decision.htm&type=5)
+
+14. [Salesforce Flow Logic - Loops](https://www.udemy.com/course/salesforce-flows/learn/lecture/31350686#overview)
+    - [Flow Element: Loop](https://help.salesforce.com/s/articleView?id=sf.flow_ref_elements_loop.htm&type=5)
